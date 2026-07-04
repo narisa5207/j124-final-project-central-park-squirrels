@@ -16,6 +16,10 @@ The dataset comes from **NYC Open Data**. I used the dataset called **2018 Centr
 
 Original data source: [NYC Open Data, 2018 Central Park Squirrel Census - Squirrel Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
 
+Note: GitHub sometimes sends this NYC Open Data link through a redirect that may show a 403 Forbidden page. If that happens, please copy and paste the full URL directly into a browser:
+
+https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
+
 The dataset has **3,023 squirrel observation records** from Central Park. Each row represents one squirrel observation. The data includes location information, a squirrel ID, age, fur color, and several observed behaviors, including running, chasing, climbing, eating, and foraging.
 
 I chose this dataset because it is unusual but still useful. It is also a good example of citizen science. Volunteers helped collect observations, and those observations became a public dataset that anyone can analyze.
