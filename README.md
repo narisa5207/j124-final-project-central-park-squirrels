@@ -14,7 +14,7 @@ I focused on two parts of the dataset: squirrel fur color and squirrel activity.
 
 The dataset comes from **NYC Open Data**. I used the dataset called **2018 Central Park Squirrel Census - Squirrel Data**.
 
-Original data source: [NYC Open Data, 2018 Central Park Squirrel Census - Squirrel Data](data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
+Original data source: [NYC Open Data, 2018 Central Park Squirrel Census - Squirrel Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
 
 The dataset has **3,023 squirrel observation records** from Central Park. Each row represents one squirrel observation. The data includes location information, a squirrel ID, age, fur color, and several observed behaviors, including running, chasing, climbing, eating, and foraging.
 
